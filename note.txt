@@ -1,0 +1,45 @@
+js
+Front end , scripting language
+programming language for web
+
+
+libescript - javascript - ecmascript
+Brendan Eich
+
+lightweight
+functional
+object oriented
+web page / web application
+scripting language 
+
+html - content 
+css - style
+js - behaviour
+
+html css bt5
+
+most popular
+inter....
+react,vue, jq
+
+4
+
+function
+    pre define
+    user define
+    calling
+
+    relivent
+
+event
+datatype
+operator
+output method
+selector
+varible
+key word
+
+example -------------
+click the button to change the text
+
+porty boica 53 ty
